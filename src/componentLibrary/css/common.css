@@ -1,0 +1,54 @@
+:root {
+  --button-padding: 10px;
+  --button-border-radius: 4px;
+}
+
+/* D */
+.default-margin {
+  margin: 16px;
+}
+
+/* H*/
+.horizontal-center {
+  margin: 0 auto;
+  display: flex;
+}
+
+/* F */
+.footer {
+  position: fixed;
+  bottom: 24px;
+  width: 100%;
+}
+
+.full-width {
+  width: 100%;
+}
+
+/* N */
+.no-padding {
+  padding: 0;
+}
+
+/* P */
+.page {
+  min-height: 100vh;
+}
+
+/* T */
+.text-align-center {
+  text-align: center;
+}
+
+/* V */
+.vertical-center-child {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.vertical-center-parent {
+  position: relative;
+}

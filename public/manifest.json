@@ -1,0 +1,26 @@
+{
+  "short_name": "HerdPay",
+  "name": "HerdPay",
+  "icons": [
+    {
+      "src": "/herdpay_logo.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/herdpay_logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/herdpay_logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "white",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "white"
+}

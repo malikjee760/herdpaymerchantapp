@@ -1,0 +1,10 @@
+#Build
+.next
+dist
+
+#Modules
+node_modules
+.idea
+
+#Secrets
+.env

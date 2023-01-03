@@ -1,0 +1,30 @@
+.apple-pay-button {
+  --apple-pay-button-width: 150px;
+  --apple-pay-button-height: 30px;
+  --apple-pay-button-border-radius: 3px;
+  --apple-pay-button-padding: 0px 0px;
+  --apple-pay-button-box-sizing: border-box;
+}
+/* B */
+.button {
+  padding: var(--button-padding);
+  border-radius: var(--button-border-radius);
+}
+/* P */
+.paypalbutton {
+  background-color: #ffc439;
+}
+
+.primaryButton {
+}
+
+.primaryButton:hover {
+  box-shadow: 0px 2px 4px -1px rgb(0 0 0 / 20%),
+    0px 4px 5px 0px rgb(0 0 0 / 14%), 0px 1px 10px 0px rgb(0 0 0 / 12%);
+}
+
+/* S */
+.secondaryButton:hover {
+  background-color: rgba(76, 72, 245, 0.04);
+  border: 1px solid #5d24f5;
+}
